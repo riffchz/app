@@ -1,12 +1,14 @@
 {
-    "drakor-app": {
+    "drakor_app": {
         "version": "1.0.0",
         "versionCode": 20240218,
+        "link": "https",
         "message": ""
     },
-    "anime-app": {
+    "anime_app": {
         "version": "1.0.0",
         "versionCode": 20240218,
+        "link": "https",
         "message": ""
     }
 }
