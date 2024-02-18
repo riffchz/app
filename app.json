@@ -1,14 +1,14 @@
 {
     "drakor_app": {
         "version": "1.0.0",
-        "versionCode": 20240218,
-        "link": "https",
-        "message": ""
+        "versionCode": 20240220,
+        "link": "https://github.com/taamarin/box.manager/releases/download/Prerelease/Box4Root-Manager_v1.12.2-17af3dc.apk",
+        "message": "tes up drakor"
     },
     "anime_app": {
         "version": "1.0.0",
-        "versionCode": 20240218,
-        "link": "https",
-        "message": ""
+        "versionCode": 202402120,
+        "link": "https://github.com/taamarin/box.manager/releases/download/Prerelease/Box4Root-Manager_v1.12.2-17af3dc.apk",
+        "message": "tes up anime"
     }
 }
